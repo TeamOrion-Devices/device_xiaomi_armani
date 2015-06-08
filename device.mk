@@ -72,6 +72,7 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-1024-dalvik-heap.mk)
 
 # Display
 PRODUCT_PACKAGES += \
+    copybit.msm8226 \
     gralloc.msm8226 \
     hwcomposer.msm8226 \
     memtrack.msm8226
