@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2015 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -114,6 +114,9 @@ MALLOC_IMPL := dlmalloc
 TARGET_BOARD_PLATFORM := msm8226
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno305
 USE_CLANG_PLATFORM_BUILD := true
+
+# Power
+TARGET_POWERHAL_VARIANT := qcom
 
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
