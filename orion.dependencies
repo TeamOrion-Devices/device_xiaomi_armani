@@ -12,7 +12,7 @@
     "remote": "github"
   },
   {
-   "repository": "TheMuppets/proprietary_vendor_xiaomi",
+   "repository": "armani-dev/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
    "branch": "cm-13.0",
    "remote": "github"
